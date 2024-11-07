@@ -1,9 +1,9 @@
 
 
-# Devilution
-Diabled: Understanding magic behind the greatest crpg ever
+# Diablo
+Diablo: Understanding magic behind the greatest crpg ever, if you ended up in my repo somehow just search for devilutionx
 
-THis requires an original copy of `diabdat.mpq`. None of the Diablo 1 game assets are provided by this project. To get a legitimate copy of the game assets purchase from gog.com or battle.net
+This requires an original copy of `diabdat.mpq`. None of the Diablo 1 game assets are provided by this project. To get a legitimate copy of the game assets purchase from gog.com or battle.net
 
 # Introduction
 I copied this from devilution because i wanted the source code to use for my attempt at rebuilding in unreal 
@@ -26,13 +26,6 @@ Make sure to enable these when installing (or modify your installation):
 - Requires "Windows 8.1 SDK" (Target Platform)
 - Requires "Visual C++ MFC for x86 and x64" (For afxres.h)
 - Requires "Windows Universal CRT SDK" (For ctype.h)
-
-
-
-
-
-
-
 
 # Legal
 idk im just having fun with this
